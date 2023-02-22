@@ -1,0 +1,7 @@
+{
+  "name": "marketmodule",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
